@@ -1,1 +1,6 @@
-_
+pwd - output the current directory
+ls - print the contents of the current working directory 
+ls name_of_the_folder
+ls -la long list of all files and hidden files 
+man - manual 
+
